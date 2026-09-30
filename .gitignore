@@ -3,3 +3,4 @@
 !/.gitignore
 !/.nojekyll
 .DS_Store
+/.quarto/
